@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T05:33:11.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="K3q8PtPYUgivV00O2156" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T17:56:25.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QfRQaOzNzwOaad2oPrGA" version="21.1.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1468" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="100" y="870" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tKcqsoHF7rKRLw9oKf3Y-32" value="COURSE&lt;br&gt;&lt;br&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Course No.&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Department" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="375" y="870" width="100" height="90" as="geometry" />
+          <mxGeometry x="425" y="870" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tKcqsoHF7rKRLw9oKf3Y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="tKcqsoHF7rKRLw9oKf3Y-33" target="tKcqsoHF7rKRLw9oKf3Y-31">
           <mxGeometry relative="1" as="geometry" />
