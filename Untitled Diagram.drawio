@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T20:57:26.506Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bW7De8oUvTdPdLfSfRVD" version="21.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-16T22:51:20.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kbDTDgs6XEk3DaMZw-xt" version="21.1.6" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Class 2 -1">
     <mxGraphModel dx="681" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JHpvGXr8uDznZ62fb-ub" name="Class 2 -3">
-    <mxGraphModel dx="830" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,10 +264,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OcJzVJDwO7z_X54WW0P3-1" value="BOOK&lt;br&gt;&lt;br&gt;&lt;u&gt;ISBN&lt;br&gt;&lt;/u&gt;Title&lt;br&gt;Price&lt;br&gt;Date of publication" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="555" width="120" height="100" as="geometry" />
+          <mxGeometry x="137.5" y="560" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OcJzVJDwO7z_X54WW0P3-2" value="AUTHOR&lt;br&gt;&lt;br&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Author No.&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Date of Brith" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="425" y="560" width="100" height="90" as="geometry" />
+          <mxGeometry x="482.5" y="565" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OcJzVJDwO7z_X54WW0P3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="OcJzVJDwO7z_X54WW0P3-5" target="OcJzVJDwO7z_X54WW0P3-1">
           <mxGeometry relative="1" as="geometry" />
@@ -276,7 +276,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OcJzVJDwO7z_X54WW0P3-5" value="ROYALITY&lt;br&gt;&lt;br&gt;Author position" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="566.25" width="100" height="77.5" as="geometry" />
+          <mxGeometry x="307.5" y="571.25" width="100" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
