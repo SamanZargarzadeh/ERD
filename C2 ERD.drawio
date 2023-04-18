@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T21:18:39.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kq4xvTsOCwIuqZvf9Dum" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T21:20:16.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wSwtZixbQnDwwTXKDBT-" version="21.1.6" type="github">
   <diagram name="Page-1" id="uUMMuO46KKWytwelXJz7">
     <mxGraphModel dx="615" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -365,12 +365,12 @@
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOw0Aaf-nVrQNHHMDp59-116" value="&lt;span style=&quot;&quot;&gt;Effective Date&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="sOw0Aaf-nVrQNHHMDp59-114">
+        <mxCell id="sOw0Aaf-nVrQNHHMDp59-116" value="&lt;span style=&quot;&quot;&gt;&lt;u&gt;Effective Date&lt;/u&gt;&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="sOw0Aaf-nVrQNHHMDp59-114">
           <mxGeometry x="80" width="100" height="30" as="geometry">
             <mxRectangle width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOw0Aaf-nVrQNHHMDp59-117" value="Price" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="sOw0Aaf-nVrQNHHMDp59-114">
+        <mxCell id="sOw0Aaf-nVrQNHHMDp59-117" value="&lt;u&gt;Price&lt;/u&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="sOw0Aaf-nVrQNHHMDp59-114">
           <mxGeometry x="180" width="80" height="30" as="geometry">
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -435,8 +435,15 @@
             <mxPoint x="196" y="1103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOw0Aaf-nVrQNHHMDp59-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sOw0Aaf-nVrQNHHMDp59-30" target="sOw0Aaf-nVrQNHHMDp59-118">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sOw0Aaf-nVrQNHHMDp59-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sOw0Aaf-nVrQNHHMDp59-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="910" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="910" />
+              <mxPoint x="110" y="910" />
+              <mxPoint x="110" y="1095" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
