@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T20:22:45.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WfhwLJZ_EzY8j4eeyS1x" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T20:43:01.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="a_FbuyjLxvCEF7bRbyjv" version="21.1.9" type="github">
   <diagram name="Page-1" id="LPCBCbk1sPROlhYq24EB">
-    <mxGraphModel dx="681" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,7 +545,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nCaeRKiMzFU6H75Zayhk-193" value="&lt;u&gt;RelatedBookISBN&lt;/u&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="nCaeRKiMzFU6H75Zayhk-191">
+        <mxCell id="nCaeRKiMzFU6H75Zayhk-193" value="&lt;u&gt;NextBookISBN&lt;/u&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="nCaeRKiMzFU6H75Zayhk-191">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
