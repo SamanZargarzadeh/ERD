@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T00:26:11.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PeDWnWoc8wWXJucHw3Mf" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T00:32:10.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vlDSrhbMw2Wd1U0xGA7u" version="21.2.4" type="github">
   <diagram name="Page-1" id="mnaJsa2x3B4fH1mONCys">
-    <mxGraphModel dx="1468" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,32 +191,32 @@
           <mxGeometry x="79" y="843" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-57" value="PublisherID" style="whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="79" y="1033" width="100" height="40" as="geometry" />
+          <mxGeometry x="316" y="863" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-58" value="Name" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="179" y="1033" width="100" height="40" as="geometry" />
+          <mxGeometry x="416" y="863" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-59" value="Address" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="279" y="1033" width="100" height="40" as="geometry" />
+          <mxGeometry x="516" y="863" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-60" value="PUBLISHER" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1013" width="90" height="30" as="geometry" />
+          <mxGeometry x="317" y="843" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3iITfVUGrdbIYIQfsVV-61" target="p3iITfVUGrdbIYIQfsVV-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="1013" />
-              <mxPoint x="129" y="1013" />
+              <mxPoint x="430" y="840" />
+              <mxPoint x="400" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-61" value="PublisherID" style="whiteSpace=wrap;html=1;align=center;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="380" y="953" width="100" height="40" as="geometry" />
+          <mxGeometry x="378" y="783" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-62" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="983" as="sourcePoint" />
-            <mxPoint x="460" y="983" as="targetPoint" />
+            <mxPoint x="398" y="810" as="sourcePoint" />
+            <mxPoint x="458" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-64" value="- Question 4 -" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;whiteSpace=wrap;html=1;fontColor=#a3a3a3;fontStyle=1" vertex="1" parent="1">
@@ -349,8 +349,8 @@
         <mxCell id="p3iITfVUGrdbIYIQfsVV-100" value="- Question 5 -" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;whiteSpace=wrap;html=1;fontColor=#a3a3a3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1560" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p3iITfVUGrdbIYIQfsVV-101" value="It is not 3rd NF" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1567" width="150" height="30" as="geometry" />
+        <mxCell id="p3iITfVUGrdbIYIQfsVV-101" value="It is not 3rd NF. So we should convert it" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211.5" y="1563" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3iITfVUGrdbIYIQfsVV-102" target="p3iITfVUGrdbIYIQfsVV-104">
           <mxGeometry relative="1" as="geometry">
@@ -529,11 +529,11 @@
         <mxCell id="p3iITfVUGrdbIYIQfsVV-146" value="Full" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="2380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p3iITfVUGrdbIYIQfsVV-147" value="It is not 3rd NF" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="2240" width="150" height="30" as="geometry" />
+        <mxCell id="p3iITfVUGrdbIYIQfsVV-147" value="It is not 3rd NF, it is 1NF so we should convert it" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="2240" width="285" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p3iITfVUGrdbIYIQfsVV-148" value="?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="1900" width="150" height="30" as="geometry" />
+        <mxCell id="p3iITfVUGrdbIYIQfsVV-148" value="It is 3rd NF so no need for convert" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="1894" width="285" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3iITfVUGrdbIYIQfsVV-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3iITfVUGrdbIYIQfsVV-152" target="p3iITfVUGrdbIYIQfsVV-153">
           <mxGeometry relative="1" as="geometry" />
